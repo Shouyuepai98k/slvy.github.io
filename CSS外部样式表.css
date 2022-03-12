@@ -1,0 +1,6 @@
+/* 这CSS文件里面只有样式,没有标签 */
+
+div {
+    color: pink;
+    font: italic 700 135px '楷体';
+}
